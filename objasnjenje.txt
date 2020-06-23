@@ -1,0 +1,4 @@
+
+		Kreirati bazu pod imenom paragraf_lex_zadatak, i importovati sql file.
+
+		Promeniti podatke o hostu, korisniku i lozinci za sql server, ako je potrebno u config.php fajlu.
